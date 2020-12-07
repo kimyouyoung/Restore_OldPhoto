@@ -3,8 +3,8 @@
 <img src='imgs/0001.jpg'/>
 
 
-## New
-You can now play with our [Colab](https://colab.research.google.com/drive/1tKLvwZaW7UAprlJHv2dxLj446VZr3NGo?usp=sharing) and try it on your photos. 
+## Use Google Colab
+You can play with our [Colab](https://colab.research.google.com/drive/1tKLvwZaW7UAprlJHv2dxLj446VZr3NGo?usp=sharing) and try it on your photos. 
 
 ## Requirement
 The code is tested on Ubuntu with Nvidia GPUs and CUDA installed. Python>=3.6 is required to run the code.
